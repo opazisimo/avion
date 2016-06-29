@@ -1,0 +1,16 @@
+.verde {
+	background-color: green;
+}
+
+.rojo {
+	background-color: red; 
+}
+
+.asiento {
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+	line-height: 100px;
+	margin: 5px;
+	display: inline-block;
+}
